@@ -1,6 +1,6 @@
 # Đồ án: Thiết kế D Flip-Flop dùng D-Latch
 
-**Môn học:** Thiết kế vi mạch số - CE222
+**Môn học:** Thiết kế vi mạch số 
 **Công cụ sử dụng:** Galaxy Custom Designer (Synopsys)
 
 ## 📌 Giới thiệu chung
