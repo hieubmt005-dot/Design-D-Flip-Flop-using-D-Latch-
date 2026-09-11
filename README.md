@@ -32,6 +32,5 @@ Sau quá trình tối ưu và mô phỏng, thiết kế D Flip-Flop dùng Transm
 *Lưu ý: F_max được ước lượng dựa trên tổng thời gian trễ T_min = T_CQ + T_setup + T_skew.*
 
 ## 🚀 Hướng phát triển tương lai
-- **Mở rộng kịch bản mô phỏng:** Khảo sát thiết kế dưới nhiều điều kiện khác nhau như thay đổi điện áp nguồn, góc công nghệ (Process Corners) và nhiệt độ (PVT variations).
 - **Tích hợp chân điều khiển:** Thiết kế hệ thống nạp dữ liệu bất đồng bộ với chân Clear (CLR) hoặc Preset (PR) để khởi tạo trạng thái ban đầu mà không phụ thuộc xung Clock.
 - **Tối ưu layout & Phân tích công suất:** Rút ngắn đường dây, giảm điện dung ký sinh để tiếp tục nâng cao tần số hoạt động, đồng thời bổ sung phân tích công suất tĩnh và công suất động của vi mạch.
